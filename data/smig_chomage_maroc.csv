@@ -1,0 +1,19 @@
+year,smig,unemployment,sector
+2015,2570,9.7,         services
+2016,2570,9.9,         services
+2017,2570,10.2,        services
+2018,2638,9.5,         services
+2019,2698,9.2,         services
+2020,2828,11.9,        services
+2021,2828,12.3,        services
+2022,2970,11.8,        services
+2023,3112,13,        services
+2015,2570,8.5,         industrie
+2016,2570,8.7,         industrie
+2017,2570,9,         industrie
+2018,2638,8.3,         industrie
+2019,2698,8,         industrie
+2020,2828,10.5,        industrie
+2021,2828,10.8,        industrie
+2022,2970,10.2,        industrie
+2023,3112,11,        industrie
